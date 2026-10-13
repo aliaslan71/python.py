@@ -1,1 +1,1 @@
-This is my journey of learning python :)
+This is my journey to learn Python :)
