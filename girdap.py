@@ -7,7 +7,7 @@ turtle.bgcolor("black")
 for i in range(220):
     renk_sirasi=(i % 10)
     t.pensize(3)
-    t.color("red")
+    t.color(renkler[renk_sirasi] )
     t.speed(10)
     t.fd( i * 1)
     t.right(59)
